@@ -10,4 +10,4 @@ This is a bot which replys to the people who follows you.
   <li>Go to config.js file and enter the Keys & Tokens which you can find by doing what it says <a href='http://docs.inboundnow.com/guide/create-twitter-application/' >here</a></li>
   <li>And done! Now go to the directory where the files are and open the terminal there and type <i>node index.js</i> and voila.. Now your bot is active and whenever someone follows you on twitter it replys them.</li>
 </ol>
-NOTE: To edit the message it replys with edit index.js file.
+<br/><b>NOTE: To edit the message it replys with edit index.js file.</b>
