@@ -1,6 +1,8 @@
 # twitter-bot
 <h1> Bot made in Node.js for twitter... </h1>
 
+To test the bot.   follow  ---->  https://twitter.com/BotFsociety  
+
 This is a bot which replies to the people who follows you.
 
 <h4>Steps to get this thing working</h4>
